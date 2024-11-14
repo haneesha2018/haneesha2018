@@ -7,7 +7,9 @@ I'm [**Haneesha**](https://haneesha2018.github.io/eportfolio), a software engine
 When I'm not coding, you can find me:
 
 🌍 Learning new languages on Duolingo, currently learning Spanish and French
+
 🍳 Experimenting with new recipes in the kitchen
+
 💪 Working out to stay active, I love running
 
 These activities help me maintain a balanced lifestyle and fuel my creativity, complementing my passion for technology,  innovation and a love for continuous learning
