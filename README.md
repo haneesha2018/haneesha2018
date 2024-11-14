@@ -18,4 +18,4 @@ I'm always eager to explore new technologies and methodologies in software engin
 
 Let's connect! 🌟
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" link="https://www.linkedin.com/in/haneesha-dushara/" />
